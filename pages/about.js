@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-
+import Count from '../components/count';
 import '../assets/scss/index.scss';
 
 class Page extends Component {
@@ -18,6 +18,8 @@ class Page extends Component {
         return (
             <>
                 <h1>这是关于</h1>
+                <Count/>
+                <Count/>
             </>
         );
     }

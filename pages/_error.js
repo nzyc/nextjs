@@ -10,6 +10,24 @@ class Error extends React.Component {
         return (
             <>
                 <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
+                <h1>自定义错误页</h1>
                 <p>
                     {this.props.statusCode ? `An error ${this.props.statusCode} occurred on server` : 'An error occurred on client'}
                 </p>

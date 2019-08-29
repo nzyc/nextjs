@@ -1,4 +1,11 @@
 @import '~antd/dist/antd.css';
+*{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style:none;
+}
 .App-main{
     width: 1200px;
     margin: 20px auto;

@@ -22,7 +22,7 @@ class MyDocument extends Document {
             <Head>
                 {/*<link rel='stylesheet' href='https://cdn.bootcss.com/antd/3.20.5/antd.css'/>*/}
                 {/*<script dangerouslySetInnerHTML={{__html: script}}/>*/}
-                <link href="https://cdn.bootcss.com/minireset.css/0.0.2/minireset.css" rel="stylesheet"/>
+                {/*<link href="https://cdn.bootcss.com/minireset.css/0.0.2/minireset.css" rel="stylesheet"/>*/}
             </Head>
             <body>
             <Main/>
