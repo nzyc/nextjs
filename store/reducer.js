@@ -28,13 +28,11 @@ export function fetchPosts() {
              * 可以使用多个dispatch
              */
             // dispatch(data);
-            console.log(data);
             return {
                 data:[]
             };
         }).catch((data) => {
             // dispatch(data);
-            console.log(data)
         })
     }
 }
